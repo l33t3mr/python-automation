@@ -1,5 +1,4 @@
-# This Repository is only for Uniberg Internal USE ONLY!!!!
-## SETA Frontend automation
+## Frontend automation
 
 This automation is done using selenium and UnitTest and is written in Python 3.6.5.
 
