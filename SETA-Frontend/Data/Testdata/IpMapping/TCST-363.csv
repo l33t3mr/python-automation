@@ -1,0 +1,5 @@
+node_name,ims_entity,ip_address
+TestNode63, P-CSCF,2a01:598:4:4006::1
+TestNode63, P-CSCF,2a01:598:4:4006::2
+TestNode63, P-CSCF,2a01:598:4:4006::3
+TestNode63_2, S-CSCF, 2a01:598:4:4006::4

@@ -1,0 +1,7 @@
+﻿"Time Frame Start","Time Frame End","IMS Entity","IMS Entity Call Leg","Presence in Calls","Average Response Time (s)","Variance in Response Time (s)","Std. Deviation in Response Time (s)","Minimum Response Time (s)","Maximum Response Time (s)","95% Percentile of Response Time (s)"
+"2017-11-06 14:34","2017-11-06 14:35",HSS,Originating,1,"0,004","0,000","0,000","0,004","0,004","0,004"
+"2017-11-06 14:34","2017-11-06 14:35",HSS-FE,Originating,1,"0,012","0,000","0,000","0,012","0,012","0,012"
+"2017-11-06 14:34","2017-11-06 14:35",LB-MZ,Originating,1,"0,003","0,000","0,001","0,002","0,004","0,004"
+"2017-11-06 14:34","2017-11-06 14:35",RACS,Originating,1,"0,012","0,000","0,000","0,012","0,012","0,012"
+"2017-11-06 14:34","2017-11-06 14:35",RACS,Terminating,1,"0,011","0,000","0,000","0,011","0,011","0,011"
+"2017-11-06 14:34","2017-11-06 14:35",iDNS,Originating,1,"0,007","0,000","0,006","0,001","0,015","0,015"

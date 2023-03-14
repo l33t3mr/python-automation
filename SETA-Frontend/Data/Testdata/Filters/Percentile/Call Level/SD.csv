@@ -1,0 +1,4 @@
+﻿"Dialog SIP Call ID","Number of Requests","Number of Responses","Dialog Initiating Node Name","Dialog Initiating Node Type","Dialog Ending Node Name","Dialog Ending Node Type"
+4412-1518-1657274620-7FEEFB98DA89-0029@51.1.4.7,11,12,"orig. UA",UA,TA2D_NBG-ECAT215,P-CSCF
+p65540t1509975277m78183c3831486s2,6,8,TA2D_NBG-EATT216,MTAS,TA2D_NBG-EATT216,MTAS
+p65540t1509975277m450407c3831488s2,9,18,TA2D_NBG-EATT216,MTAS,"term. UA",UA

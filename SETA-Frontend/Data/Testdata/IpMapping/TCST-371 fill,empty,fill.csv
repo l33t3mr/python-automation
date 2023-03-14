@@ -1,0 +1,4 @@
+node_name,ims_entity,ip_address
+Needed1,P-CSCF,1.1.1.1
+Needed2, S-CSCF, 2.2.2.2
+X,,3.3.3.3

@@ -1,0 +1,5 @@
+node_name,ims_entity,ip_address
+TestNode46_1, P-CSCF, 46.1.1.1
+TestNode46_2, S-CSCF,  46.1.1.2
+TestNode46_3, I-CSCF,  46.1.1.3
+TestNode46_4, HSS,  46.1.1.4

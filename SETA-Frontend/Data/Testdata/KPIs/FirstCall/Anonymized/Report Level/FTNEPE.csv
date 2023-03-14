@@ -1,0 +1,7 @@
+﻿"Time Frame Start","Time Frame End","IMS Entity","IMS Entity Call Leg","Presence in Calls","Average Forwarding Time (s)","Variance in Forwarding Time (s)","Std. Deviation in Response Time (s)","Minimum Forwarding Time (s)","Maximum Forwarding Time (s)","95% Percentile of Forwarding Time (s)"
+"2017-11-06 14:34","2017-11-06 14:35",MTAS,Terminating,1,"0,010","0,000","0,000","0,010","0,010","0,010"
+"2017-11-06 14:34","2017-11-06 14:35",MTAS,Originating,1,"0,017","0,000","0,000","0,017","0,017","0,017"
+"2017-11-06 14:34","2017-11-06 14:35",P-CSCF,Terminating,1,"0,009","0,000","0,002","0,007","0,011","0,011"
+"2017-11-06 14:34","2017-11-06 14:35",P-CSCF,Originating,1,"0,009","0,000","0,003","0,006","0,012","0,012"
+"2017-11-06 14:34","2017-11-06 14:35",S-CSCF,"Originating & Terminating",1,"0,116","0,001","0,031","0,066","0,158","0,158"
+"2017-11-06 14:34","2017-11-06 14:35",iDNS,Originating,1,"0,003","0,000","0,001","0,002","0,004","0,004"

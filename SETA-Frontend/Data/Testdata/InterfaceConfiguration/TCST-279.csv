@@ -1,0 +1,5 @@
+first_node,second_node,direction,interface
+x,z,y,both
+x,z,y,outgoing
+x,z,y,both
+x,z,y,outgoing

@@ -1,0 +1,5 @@
+node_name,ims_entity,ip_address
+TestNode65_1, P-CSCF, 2a01:598:402:3065::1
+TestNode65_2, S-CSCF, 2a01:598:402:3065::2
+TestNode65_3,I-CSCF,2a01:598:402:3065::3
+TestNode65_4, HSS, 2a01:598:402:3065::4

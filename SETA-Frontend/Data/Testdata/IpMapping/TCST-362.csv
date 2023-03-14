@@ -1,0 +1,3 @@
+node_name,ims_entity,ip_address
+TestNode62, P-CSCF, 20D0::A
+TestNode62, S-CSCF, 20D0::B

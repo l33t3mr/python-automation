@@ -1,0 +1,8 @@
+﻿"Time Frame Start","Time Frame End","IMS Entity","IMS Entity Call Leg","Node Name","Presence in Calls","Average Forwarding Time (s)","Variance in Forwarding Time (s)","Std. Deviation in Response Time (s)","Minimum Forwarding Time (s)","Maximum Forwarding Time (s)","95% Percentile of Forwarding Time (s)"
+"2017-11-06 14:34","2017-11-06 14:35",iDNS,Originating,TA2D_LB_iDNS,1,"0,003","0,000","0,001","0,002","0,004","0,004"
+"2017-11-06 14:34","2017-11-06 14:35",MTAS,Terminating,TA2D_NBG-EATT216,1,"0,004","0,000","0,004","0,001","0,010","0,010"
+"2017-11-06 14:34","2017-11-06 14:35",MTAS,Originating,TA2D_NBG-EATT216,1,"0,007","0,000","0,007","0,001","0,017","0,017"
+"2017-11-06 14:34","2017-11-06 14:35",P-CSCF,Terminating,TA2D_NBG-ECAT215,1,"0,005","0,000","0,004","0,002","0,011","0,011"
+"2017-11-06 14:34","2017-11-06 14:35",P-CSCF,Originating,TA2D_NBG-ECAT215,1,"0,006","0,000","0,004","0,002","0,012","0,012"
+"2017-11-06 14:34","2017-11-06 14:35",S-CSCF,"Originating & Terminating",TA2D_S-CSCF,1,"0,097","0,002","0,039","0,047","0,158","0,158"
+"2017-11-06 14:34","2017-11-06 14:35",iDNS,Originating,TA2E_LB_iDNS,1,"0,002","0,000","0,000","0,002","0,002","0,002"

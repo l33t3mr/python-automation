@@ -1,0 +1,11 @@
+﻿KPI,Average,Variance,"Std. Deviation",Minimum,Maximum,"95% Percentile"
+"Forwarding Time Next Entity for All Calls","0,004","0,000","0,005","0,001","0,017","0,012"
+"IMS Forwarding Time Request","0,695","0,000","0,000","0,695","0,695","0,695"
+"IMS Forwarding Time Response",'-,'-,'-,'-,'-,'-
+"Request Response Durations for All Calls","1,124","2,425","1,557","0,001","4,382","4,138"
+"Session Establishment Time","4,382","0,000","0,000","4,382","4,382","4,382"
+"Session Processing Time","0,465","0,000","0,000","0,465","0,465","0,465"
+"Session Ringing Time","1,068","0,000","0,000","1,068","1,068","1,068"
+"System Forwarding Time","0,146","0,050","0,225","0,010","0,636","0,636"
+"System Forwarding Time for Response for All Calls","0,204","0,044","0,209","0,002","0,540","0,532"
+"System Processing Time","0,022","0,001","0,034","0,001","0,135","0,042"

@@ -1,0 +1,6 @@
+﻿"IMS Entity","IMS Entity Call Leg","Node Name","Forwarded Request Method","Forwarding Time (s)"
+MTAS,Terminating,TA2D_NBG-EATT216,INVITE,"0,010"
+MTAS,Originating,TA2D_NBG-EATT216,INVITE,"0,017"
+P-CSCF,Originating,TA2D_NBG-ECAT215,INVITE,"0,030"
+P-CSCF,Terminating,TA2D_NBG-ECAT215,INVITE,"0,029"
+S-CSCF,"Originating & Terminating",TA2D_S-CSCF,INVITE,"0,636"

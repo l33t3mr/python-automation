@@ -1,0 +1,6 @@
+﻿KPI,Average,Variance,"Std. Deviation",Minimum,Maximum,"95% Percentile (s)"
+"Forwarding Time Next Entity","0,040","0,003","0,051","0,001","0,158","0,155"
+"Request and Responses","0,993","2,135","1,461","0,001","4,382","4,138"
+"System Forwarding Time","0,144","0,060","0,246","0,010","0,636","0,636"
+"System Forwarding Time for Response","0,038","0,005","0,073","0,001","0,247","0,194"
+"System Processing Time","0,604","1,555","1,247","0,001","3,719","3,483"

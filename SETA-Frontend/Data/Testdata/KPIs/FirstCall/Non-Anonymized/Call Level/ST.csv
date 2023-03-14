@@ -1,0 +1,25 @@
+﻿"SIP Transaction ID","Number of Requests","Number of Responses","Transaction Initiating Node Name","Transaction Initiating Node Type","Transaction Ending Node Name","Transaction Ending Node Type"
+z9hG4bK3da2c4316874fd8cd71fd939bdd7b085,1,2,"orig. UA",UA,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7ix3ygp39v18w4y4sxpx3nwehy3,1,2,TA2D_NBG-ECAT215,P-CSCF,TA2D_S-CSCF,S-CSCF
+z9hG4bK62c34dc469a9b20bfb0e67552c0cfb01maaaaaaiaaaaaak5xc4sqaaaaaif1j24zaaabhwq3Zqkv7y1lv1budby5ntmaaaaabqaaaaaabaaaaaaa,1,2,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2214765889-1265974141,1,2,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bKd62402625504c44687817fc64d32c75dmaaaaaaiaaaaaadjwu4rqaaaaaif1j24zaaabhwy3Zqkv7yzp2h5wbcesji2aaaaabqaaaaaabaaaaaaa,1,2,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2215135809-1348907529,1,2,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bKf0ca797be8a0098371c5e960ed061df9jaaaaaaiaaaaaamx4xbca3Zqkv7a1pqcs5abwupkmaaaaabqaaaacqac0tkliiwu1kiaaaaoeaaqrnhqaeelj2aq,1,2,TA2D_S-CSCF,S-CSCF,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7ini9p72f7cn2m2llqhfx2xh65m,1,2,TA2D_NBG-ECAT215,P-CSCF,"term. UA",UA
+z9hG4bKc0f3f414837dc2c1397b1d1be80b5bd5,1,1,"orig. UA",UA,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7ihu5b9dshci6x7e9e2dh8sxpzg,1,1,TA2D_NBG-ECAT215,P-CSCF,TA2D_S-CSCF,S-CSCF
+z9hG4bK17c24630d9ca8838c794dde306b0f857jaaaaaaiaaaaaafyngsjq3Zqkv7y1lv1bufokrkheaaaaabqaaaaaaaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2215766825-614466368,1,1,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bK591c41f7e90714f9677dc19abd7b9f91jaaaaaaiaaaaaay35m1aa3Zqkv7yzp2h5wcv5n4hyaaaaabqaaaaaaaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2215922411-1489216572,1,1,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bKced0b8fc38ce83648ebeec19269e7970jaaaaaaiaaaaaaqxuella3Zqkv7a1pqcs5cwkddsqaaaaabqaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7i51mwq8c7jm13wwc4utclr9nq7,1,1,TA2D_NBG-ECAT215,P-CSCF,"term. UA",UA
+z9hG4bKb4edc44adb8d7c253d7bae0fb7856a11,1,1,"orig. UA",UA,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7ik74xf46myk2qleiwl1jw289dp,1,1,TA2D_NBG-ECAT215,P-CSCF,TA2D_S-CSCF,S-CSCF
+z9hG4bK5d54372cb5739e3e2bd7ab861e317f04jaaaaaaiaaaaaa21014vq3Zqkv7y1lv1buf3kqstyaaaaabqaaaaaaaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2219997072-617182239,1,1,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bK9aa4020210829f13fb5722932f9e2409jaaaaaaiaaaaaayiklyqq3Zqkv7yzp2h5wgvypnxiaaaaabqaaaaaaaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-EATT216,MTAS
+z9hG4bK2220134108-1195333195,1,1,TA2D_NBG-EATT216,MTAS,TA2D_S-CSCF,S-CSCF
+z9hG4bKbb1accc118b59ef8bf1938323534492djaaaaaaiaaaaaagbgigna3Zqkv7a1pqcs5dgk5j2qaaaaabqaaaaaaaa,1,1,TA2D_S-CSCF,S-CSCF,TA2D_NBG-ECAT215,P-CSCF
+z9hG4bKg3Zqkv7i15dhmeoszcdw5gz7e6d6ziur8,1,1,TA2D_NBG-ECAT215,P-CSCF,"term. UA",UA

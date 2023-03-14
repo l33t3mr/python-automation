@@ -1,0 +1,22 @@
+first_node,second_node,direction,interface
+S-CSCF,LKMS,both,ISC
+I-BCF,LKMS,both,ISC
+I-BCF,I-BGF,both,Izi
+S-CSCF,I-BCF,both,Mx
+P-CSCF,A-BGF,both,Ia
+S-CSCF,SLF,both,Dx
+S-CSCF,DSC,both,Cx
+DSC,SLF,both,Dx
+DSC,HSS,both,Cx
+S-CSCF,HSS,both,Cx
+P-CSCF,RACS,both,Gq'
+iDNS,iDNS,both,DNS
+S-CSCF,iDNS,both,DNS
+UA,P-CSCF,both,Gm
+S-CSCF,MGC,both,Mn
+S-CSCF,S-CSCF,both,Mw
+MTAS,S-CSCF,both, ISC
+P-CSCF,S-CSCF,both,Mw
+iDNS,LB-MZ,both,DNS
+LB-MZ,LB-MZ,both,DNS
+HSS-FE,HSS,both,Cx

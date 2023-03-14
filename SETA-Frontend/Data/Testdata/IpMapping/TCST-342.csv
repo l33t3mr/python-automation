@@ -1,0 +1,3 @@
+node_name,ims_entity,ip_address
+TestNode42, P-CSCF, 42.1.1.1
+TestNode42, S-CSCF, 42.1.1.2
